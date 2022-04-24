@@ -23,14 +23,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "STL" %}
-                        <li><a href="/categories/stl" class="">C++ STL & 표준 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-
+            <!--c#이라는 카테고리안에 카테고리를 만들ㅕ면 여기에-->
       </li>
   </ul>
 </nav>
