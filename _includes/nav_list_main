@@ -23,6 +23,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">영어 회화</span>
+            <ul>
+              {% for category in site.categories %}
+                  {% if category[0] == "English" %}
+                      <li><a href="/categories/English" class="">English ({{category[1].size}})</a></li>
+                  {% endif %}
+              {% endfor %}
+            </ul>
             <!--c#이라는 카테고리안에 카테고리를 만들ㅕ면 여기에-->
       </li>
   </ul>
