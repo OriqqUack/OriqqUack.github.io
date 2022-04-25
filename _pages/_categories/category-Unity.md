@@ -1,7 +1,7 @@
 ---
 title: "유니티"
 layout: archive
-permalink: categories/Unity
+permalink: categories/C#
 author_profile: true
 sidebar_main: true
 ---
