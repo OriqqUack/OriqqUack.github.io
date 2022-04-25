@@ -1,6 +1,6 @@
 ---
 title: "유니티"
-layout: archive
+layout: category
 permalink: categories/unity
 author_profile: true
 sidebar_main: true

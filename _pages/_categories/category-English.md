@@ -1,6 +1,6 @@
 ---
 title: "English"
-layout: archive
+layout: category
 permalink: categories/english
 author_profile: true
 sidebar_main: true
