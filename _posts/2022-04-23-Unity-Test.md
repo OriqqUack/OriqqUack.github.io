@@ -1,6 +1,6 @@
 ---
 title:  "[사이드바] 테스트를 해보자"
-excerpt: "사이드바 활성화를 시켜보 "
+excerpt: "사이드바 활성화를 시켜보자 "
 
 categories:
   - Unity
