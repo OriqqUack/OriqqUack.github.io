@@ -1,7 +1,7 @@
 ---
 title: "English"
 layout: archive
-permalink: categories/English
+permalink: categories/english
 author_profile: true
 sidebar_main: true
 ---
