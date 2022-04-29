@@ -75,6 +75,7 @@ body {
   a {
     color: $text-color;
     text-decoration: none;
+    color: #76B9B2;
   }
 
   & + .page__meta {
@@ -294,7 +295,7 @@ body {
   }
 
   a {
-    color: inherit;
+    color: #9C44B4;
   }
 }
 
@@ -332,6 +333,8 @@ body {
   text-decoration: none;
   border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
+  background-color: #3D434E;
+
 
   &:hover {
     text-decoration: none;
