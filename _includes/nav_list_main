@@ -14,8 +14,8 @@
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Unity" %}
-                        <li><a href="/categories/unity" class="">Unity ({{category[1].size}})</a></li>
+                    {% if category[0] == "C sharp" %}
+                        <li><a href="/categories/csharp" class="">기초문법 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

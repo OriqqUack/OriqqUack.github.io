@@ -31,6 +31,7 @@ h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: #9C44B4;
 }
 
 h1 {
@@ -41,6 +42,7 @@ h1 {
 
 h2 {
   font-size: $h-size-2;
+  color: #9C44B4;
 }
 
 h3 {
@@ -170,9 +172,11 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.8em;
-  background: $code-background-color;
-  border-radius: $border-radius;
+  font-size: 1em;
+  color: #9C44B4;
+  background: #3D434E;
+  border-radius: 4px;
+  font-family: "Yeon Sung",-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 
   &:before,
   &:after {
